@@ -16,7 +16,7 @@ public class Main {
 
         System.out.println(strings);
 
-
+        System.out.println("Hi ich bin neu hier!");
     }
 }
 
