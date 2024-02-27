@@ -17,6 +17,8 @@ public class Main {
         System.out.println(strings);
 
         System.out.println("Hi ich bin neu hier!");
+        System.out.println("Halt stop jetzt rede ich!");
+
     }
 }
 
